@@ -8,3 +8,5 @@ hostname
 echo
 ls -ltr
 echo
+
+echo "The date and Time is $(date)"
